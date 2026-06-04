@@ -14,25 +14,25 @@ A premium, high-performance legal consultancy platform featuring a modern client
 *(Drag and drop your screenshots below when uploading to GitHub)*
 
 ### 1. Home Page (Client UI)
-![Home Page](./client-home.png)
+![Home Page](./screenshots/client-home.png)
 
 ### 2. About The Firm (Client UI)
-![About Firm](./client-about.png)
+![About Firm](./screenshots/client-about.png)
 
 ### 3. Consultation Booking Form (Client UI)
-![Consultation Booking](./client-consultation-form.png)
+![Consultation Booking](./screenshots/client-consultation-form.png)
 
 ### 4. Contact Inquiry Form (Client UI)
-![Contact Inquiry](./client-inquiry-form.png)
+![Contact Inquiry](./screenshots/client-inquiry-form.png)
 
 ### 5. Dashboard Overview (Admin Portal)
-![Dashboard Overview](./admin-dashboard.png)
+![Dashboard Overview](./screenshots/admin-dashboard.png)
 
 ### 6. Consultations Management (Admin Portal)
-![admin-consultations.png](./admin-consultations.png)
+![admin-consultations.png](./screenshots/admin-consultations.png)
 
 ### 7. Contact Inquiries Inbox (Admin Portal)
-![admin-contacts.png](./admin-contacts.png)
+![admin-contacts.png](./screenshots/admin-contacts.png)
 
 ---
 
