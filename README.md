@@ -4,9 +4,14 @@ A premium, high-performance legal consultancy platform featuring a modern client
 
 ---
 
+## 🌐 Live Demo
+**[View the Live Platform Here] (https://legal-consultancy-full-stack-website.vercel.app/)** *(Replace this link with your actual Vercel/GitHub hosted link)*
+
+---
+
 ## 📸 Platform Previews
 
-*(Drag and drop your 5 screenshots below when uploading to GitHub)*
+*(Drag and drop your screenshots below when uploading to GitHub)*
 
 ### 1. Home Page (Client UI)
 ![Home Page](./client-home.png)
@@ -14,14 +19,20 @@ A premium, high-performance legal consultancy platform featuring a modern client
 ### 2. About The Firm (Client UI)
 ![About Firm](./client-about.png)
 
-### 3. Dashboard Overview (Admin Portal)
+### 3. Consultation Booking Form (Client UI)
+![Consultation Booking](./client-consultation-form.png)
+
+### 4. Contact Inquiry Form (Client UI)
+![Contact Inquiry](./client-inquiry-form.png)
+
+### 5. Dashboard Overview (Admin Portal)
 ![Dashboard Overview](./admin-dashboard.png)
 
-### 4. Consultations Management (Admin Portal)
-![Consultations Management](./admin-consultations.png)
+### 6. Consultations Management (Admin Portal)
+![admin-consultations.png](./admin-consultations.png)
 
-### 5. Contact Inquiries Inbox (Admin Portal)
-![Contact Inquiries](./admin-contacts.png)
+### 7. Contact Inquiries Inbox (Admin Portal)
+![admin-contacts.png](./admin-contacts.png)
 
 ---
 
