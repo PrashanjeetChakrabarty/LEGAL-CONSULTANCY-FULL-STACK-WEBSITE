@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/LEGAL-CONSULTANCY-FULL-STACK-WEBSITE',
+  basePath: process.env.GITHUB_ACTIONS ? '/LEGAL-CONSULTANCY-FULL-STACK-WEBSITE' : '',
   images: {
     unoptimized: true,
     remotePatterns: [
