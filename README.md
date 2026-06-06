@@ -5,7 +5,7 @@ A premium, high-performance legal consultancy platform featuring a modern client
 ---
 
 ## 🌐 Live Demo
-**[View the Live Platform Here] (https://legal-consultancy-full-stack-website.vercel.app/)** *(Replace this link with your actual Vercel/GitHub hosted link)*
+**[View the Live Platform Here] (https://prashanjeetchakrabarty.github.io/LEGAL-CONSULTANCY-FULL-STACK-WEBSITE/)**
 
 ---
 

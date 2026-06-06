@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  basePath: '/LEGAL-CONSULTANCY-FULL-STACK-WEBSITE',
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -9,7 +12,6 @@ const nextConfig = {
     ],
   },
   typescript: {
-    // R3F JSX types are resolved at runtime — suppress pre-existing type error
     ignoreBuildErrors: true,
   },
   eslint: {
