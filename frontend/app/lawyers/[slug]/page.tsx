@@ -34,6 +34,12 @@ const lawyers = [
   }
 ];
 
+export function generateStaticParams() {
+  return lawyers.map((lawyer) => ({
+    slug: lawyer.slug,
+  }));
+}
+
 export default function LawyerProfilePage({ params }: { params: { slug: string } }) {
   const lawyer = lawyers.find(l => l.slug === params.slug);
 
